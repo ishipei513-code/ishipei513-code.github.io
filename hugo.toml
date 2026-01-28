@@ -1,0 +1,4 @@
+theme = 'PaperMod'
+baseURL = 'https://ishipei513-code.github.io/'
+languageCode = 'ja'
+title = 'AI Tool Hunter'
